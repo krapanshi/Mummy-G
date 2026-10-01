@@ -151,14 +151,4 @@ Possible next steps for turning the concept into a working application:
 
 These are proposed improvements, not existing functionality.
 
-## Contributing
-
-1. Fork the repository and create a branch for a focused change.
-2. Make the change and update documentation where behavior changes.
-3. Check affected pages on desktop and mobile screen sizes.
-4. Confirm local assets load and forms behave as described.
-5. Open a pull request explaining the change and how it was checked.
-
-
-**Suggested topics:** `maternal-health`, `healthcare`, `women-health`, `india`, `html`, `css`, `javascript`, `bootstrap`, `frontend`, `website`, `prototype`
 
