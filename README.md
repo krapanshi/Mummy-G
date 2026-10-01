@@ -8,8 +8,6 @@
 
 ## About the project
 
-## About the project
-
 Mummy-G presents a nonprofit maternal care initiative with the mission of empowering Indian women through better maternal health and safer deliveries. The website brings together information about the initiative, proposed services, a medical panel, pregnancy FAQs, and forms for appointments, community registration, donations, and enquiries.
 
 The concept focuses on the physical and mental wellbeing of mothers and newborns, with particular attention to women in rural areas and those who face barriers to affordable care. Its service offerings describe nutrition and exercise support, medication and checkups, emergency assistance, transport, community meetups, and care after childbirth.
