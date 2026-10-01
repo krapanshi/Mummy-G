@@ -2,7 +2,11 @@
 
 **A maternal health website concept focused on supporting women across rural and urban India throughout pregnancy and after childbirth.**
 
-[Demo link]([https://mummy-g.netlify.app/](https://mummy-ji.netlify.app)) 
+## Live Demo
+
+[https://mummy-g.netlify.app/](https://mummy-g.netlify.app/)
+
+## About the project
 
 ## About the project
 
