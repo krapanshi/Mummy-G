@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-[https://mummy-g.netlify.app/](https://mummy-g.netlify.app/)
+[https://mummy-ji.netlify.app/](https://mummy-ji.netlify.app)
 
 ## About the project
 
